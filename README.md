@@ -1,1 +1,1 @@
-# Quantitative-Aptitude
+# Aptitude
